@@ -137,3 +137,5 @@ typings/
 
 # dotenv environment variables file
 .env
+/dynamic-metals.iml
+/.idea/
